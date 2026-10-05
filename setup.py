@@ -10,7 +10,7 @@ setup(
         'console_scripts': ['denopro = lib.launcher:launch']
     },
     description = "Denovo Proteogenomics Pipeline to identify clinically relevant novel variants from RNAseq and Proteomics data.",
-    url = 'https://github.com/abiswas97/DeNoPro',
+    url = 'https://github.com/bonboncinnabon/DeNoPro',
     packages=find_packages()
 )
 
